@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnGoogleSignUp
+id btnLogin
+id btnSignUp
+id btnSignUpAlt
+id etPassword
+id etUsername
+id tvForgotPassword
+id tvLogin
+id tvSignUp
+id tvSubtitle
+id tvTitle
+layout activity_login
+layout activity_signup
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.FP
+style Theme.FP
+xml backup_rules
+xml data_extraction_rules
